@@ -1,1 +1,3 @@
 Added new file demo.txt
+
+Updated the file for second commit
